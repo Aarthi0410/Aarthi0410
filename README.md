@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?to=aarthiachu0410@gmail.com&su=Hey&fs=1&tf=cm" target="_blank">
   <img  src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
-   <a href="https://www.linkedin.com/in/yashnaravade/" target="_blank">
+   <a href="https://www.linkedin.com/in/aarthi-chinnamuthu-a55786197/" target="_blank">
   <img  src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   <a href="https://twitter.com/yashnaravade" target="_blank">
   <img  src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
@@ -18,68 +18,34 @@
 &nbsp;
 
 <p align="center">
-  <img  src="yash-naravade.svg" />
+  <img  src="Images/Aarthi.png" width="300" 
+     height="100" />
 
   
 </p>
+
  
-
-**🐱 My GitHub Data** 
-
-> 📦 89.9 kB Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 57 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm an Early 🐤** 
+📅 **I'm Most Productive on Saturday** 
 
 ```text
-🌞 Morning                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-🌆 Daytime                284 commits         ██████████░░░░░░░░░░░░░░░   39.89 % 
-🌃 Evening                175 commits         ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-🌙 Night                  169 commits         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   137 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Tuesday                  108 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Thursday                 101 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Friday                   102 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Saturday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Sunday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Monday                   3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Tuesday                  08 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Wednesday                06 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Thursday                 10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Friday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Saturday                 58 commits          █████░░░░░░░░░░░░░░░░░░░░   39.24 % 
+Sunday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**I Mostly Code in Java** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               23 repos            ███████████░░░░░░░░░░░░░░   44.23 % 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Perl                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   20.54 % 
+DB operations            1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Java                     20 repo             ███████████░░░░░░░░░░░░░░   44.23 % 
 ```
 
 
