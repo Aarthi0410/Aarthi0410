@@ -8,7 +8,7 @@
   <img  src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
    <a href="https://www.linkedin.com/in/aarthi-chinnamuthu-a55786197/" target="_blank">
   <img  src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  <a href="https://twitter.com/yashnaravade" target="_blank">
+  <a href="https://twitter.com/AChinnamut76609" target="_blank">
   <img  src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </p>
 
