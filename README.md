@@ -62,7 +62,7 @@ Java                     5 repo             ███████████░
 <h2 align="center">👇Take a look at some of my projects👇</h2>
 
 <p align="center">
-  <a href="https://weather-app-flame-eta.vercel.app/" target="_blank">
+  <a href="https://aarthi0410.github.io/Projects-by-Aarthi/" target="_blank">
   <img  src="https://img.shields.io/badge/🌤️Weather%20App-000000?style=for-the-badge&logo=weather&logoColor=white"/>
   <a href="https://emoji-kit-kat.vercel.app/" target="_blank">
   <img  src="https://img.shields.io/badge/🗿Emoji%20Kit%20Kat-000000?style=for-the-badge&logo=emoji&logoColor=white"/>
